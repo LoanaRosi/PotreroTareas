@@ -1,0 +1,23 @@
+.fideos {
+    width: 500;
+    height: 250;
+}
+
+.choco {
+    width: 500;
+    height: 250;
+}
+
+.leer {
+    color: blue;
+}
+
+hr {
+    height: 0;
+    border-top: 2px solid black; 
+    border-bottom: 0; 
+}
+
+a {
+    font-weight: bold;
+}
