@@ -1,0 +1,18 @@
+img {
+    width: 500px;
+    height: 250px;
+}
+
+.leer {
+    color: blue;
+}
+
+hr {
+    height: 0;
+    border-top: 2px solid black; 
+    border-bottom: 0; 
+}
+
+a {
+    font-weight: bold;
+}
