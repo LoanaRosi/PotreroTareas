@@ -1,0 +1,51 @@
+img {
+    width: 500px;
+    height: 250px;
+}
+
+h1 {
+    font-family: "Lato", sans-serif;
+}
+
+p, li, a {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(249, 242, 189);
+}
+
+.descripcion1 {
+    color: brown;
+}
+
+.descripcion2 {
+    color: rgb(241, 4, 43);
+}
+
+.descripcion3 {
+    color: rgb(210, 109, 7);
+}
+
+.links {
+    color: blue;
+}
+
+.ul1, .ol1 {
+    color: rgb(205, 22, 162);
+}
+
+
+.ol2, .ul2 {
+    color: rgb(3, 92, 23);
+}
+
+.pninos {
+    color: rgb(241, 85, 18);
+}
+
+.ppan {
+    color: brown;
+}
